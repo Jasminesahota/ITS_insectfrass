@@ -8,6 +8,7 @@
 #dunnTest(Shannon ~ TreatmentGroup, data = alpha_div, method = "bonferroni")
 
 library(phyloseq)
+library(pheatmap)
 library(biomformat)
 library(ggplot2)
 library(vegan)
