@@ -1,0 +1,28 @@
+SampleID	Replication 	Species	Diet	Treatment 	Industry 
+FSR1ITS	1	Superworm	CS	RAW	A
+FSR2ITS	2	Superworm	CS	RAW	A
+FCR1ITS	1	Cricket	CS	RAW	A
+FCR2ITS	2	Cricket	CS	RAW	A
+FMR1ITS	1	Mealworm	CS	RAW	A
+FMR2ITS	2	Mealworm	CS	RAW	A
+FBR1ITS	1	Black soldier fly	CS	RAW	A
+FBR2ITS	2	Black soldier fly	CS	RAW	A
+SBR1ITS	1	Black soldier fly	ABG	RAW	D
+SBR2ITS	2	Black soldier fly	ABG	RAW	D
+CBR1ITS	1	Black soldier fly	PCFW	RAW	E
+CBR2ITS	2	Black soldier fly	PCFW	RAW	E
+DCR1ITS	1	Cricket	CS	RAW	B
+DCR2ITS	2	Cricket	CS	RAW	B
+EBR1ITS	1	Black soldier fly	FWG	AIR DRIED	F
+EBR2ITS	2	Black soldier fly	FWG	AIR DRIED	F
+CBWR1ITS	1	Black soldier fly	WWDG	AIR DRIED	E
+CBWR2ITS	2	Black soldier fly	WWDG	AIR DRIED	E
+PBDS1R1ITS	1	Black soldier fly	OWDA	DRY	C
+PBDS1R2ITS	2	Black soldier fly	OWDA	DRY	C
+PBDS2R1ITS	1	Black soldier fly	OWDA	DRY	C
+PBDS2R2ITS	2	Black soldier fly	OWDA	DRY	C
+PBDS2R3ITS	3	Black soldier fly	OWDA	DRY	C
+PBRS1R1ITS	1	Black soldier fly	OWDA	RAW	C
+PBRS1R2ITS	2	Black soldier fly	OWDA	RAW	C
+PBRS2R1ITS	1	Black soldier fly	OWDA	RAW	C
+PBRS2R2ITS	2	Black soldier fly	OWDA	RAW	C
